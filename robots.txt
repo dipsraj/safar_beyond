@@ -1,0 +1,14 @@
+# robots.txt for SafarBeyond
+
+User-agent: *
+Allow: /
+
+# Disallow any backend or sensitive paths if added in the future
+Disallow: /admin/
+Disallow: /user/
+Disallow: /private/
+Disallow: /scripts/
+Disallow: /cgi-bin/
+
+# Sitemap declaration (important!)
+Sitemap: https://safarbeyond.com/sitemap.xml
