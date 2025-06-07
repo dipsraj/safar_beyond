@@ -1,0 +1,4 @@
+name: safarbeyond
+recipe: lamp
+config:
+  webroot: .
